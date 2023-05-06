@@ -4,18 +4,3 @@ cookiecutter>=1.4.0
 pytest-cookies==0.5.1
 alabaster==0.7.12
 watchdog==0.9.0
-
-# modeling packages
-torch==2.0.0
-transformers==4.28.1
-datasets==2.12.0
-langchain==0.0.160
-pandas==2.0.1
-scikit-learn==1.0
-seaborn==0.12.0
-plotly==5.14.1
-tqdm==4.65.0
-ipykernel==6.22.0
-ipywidgets==7.6
-notebook>=5.3
-openai==0.27.6
